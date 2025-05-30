@@ -56,7 +56,7 @@ class Student{
 					break;
 				}
 			}
-			if(!found){
+			if{
 					System.out.println("Student ID "+studentId+" not found");
 			}
 			
